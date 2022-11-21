@@ -62,9 +62,11 @@ function timer(){
         if (startTime < 0){
             clearInterval(interval);
             gameOver();
+            timerEl.textContent = '';
         } else {
-            
-            timerEl.setAttribute('value', startTime);
+            // timerEl.setAttribute('style', 'display: flex');
+            // timerEl.setAttribute('value', startTime);
+            timerEl.textContent = "Time Left: " + startTime;
             console.log(startTime);
             startTime--;
         }
