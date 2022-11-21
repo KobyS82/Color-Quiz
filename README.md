@@ -32,5 +32,5 @@ Stack Overflow, for fixing GitHub errors, https://stackoverflow.com/questions/30
 
 Log Rocket, for localStorage usage, https://blog.logrocket.com/localstorage-javascript-complete-guide/#setitem
 
-Bradley, Bootcamp TA, for helping with stupid GitHub incursive repo error.
+Bradley O'Dell, Bootcamp TA, for helping with stupid GitHub incursive repo error.
 
