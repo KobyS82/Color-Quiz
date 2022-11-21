@@ -5,6 +5,6 @@ Body{
     display:initial;
 }
 
-#gameOver{
+.gameOver{
     display:none;
 }
