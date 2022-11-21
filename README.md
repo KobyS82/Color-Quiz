@@ -14,21 +14,23 @@ This page will serve as a game about colors
 
 ## Installation
 
-This is a live page that can be viewed at https://REPLACE.githib.io/
+This page shows the repository used: https://github.com/KobyS82/Color-Quiz
 
 
 ## Usage
 
-This page can be viewed at https://REPLACE.githib.io/
+This page can be viewed at https://kobys82.github.io/Color-Quiz/
 
-![screenshot of content](.assets/images/test.png "This is a screenshot of the content") 
+![screenshot of content](./Assets/images/Color-Quiz.jpg "This is a screenshot of the content") 
 
 
 ## Credits
 
-Name, link, for
+Alexis San Javier, UT Tutor, for helping with intervals and funtion delegation.
 
-Name, link, for
+Stack Overflow, for fixing GitHub errors, https://stackoverflow.com/questions/30443333/error-with-renamed-repo-in-github-remote-this-repository-moved-please-use-th
 
-Name, link, for
+Log Rocket, for localStorage usage, https://blog.logrocket.com/localstorage-javascript-complete-guide/#setitem
+
+Bradley, Bootcamp TA, for helping with stupid GitHub incursive repo error.
 
